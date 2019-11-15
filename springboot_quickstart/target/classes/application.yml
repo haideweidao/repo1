@@ -1,0 +1,19 @@
+name: zhangsan
+person:
+  name: zhangsan
+  age: 18
+  addr: beijing
+#person1: {name: zhangsan,age: 18,addr: tinjin}
+city:
+  - beijing
+  - tianjin
+  - taiyuan
+#city: [biejing,tianjin,taiyuan]
+
+students:
+  - name: zhangsan
+    age: 18
+    addr: beijing
+  - name: zhangsan
+    age: 18
+    addr: beijing
