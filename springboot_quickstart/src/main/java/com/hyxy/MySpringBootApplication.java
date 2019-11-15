@@ -10,6 +10,7 @@ public class MySpringBootApplication {
     }
     public int aaa(){
         int b=20;
+	int a=10;
 	return 1;
     }
 }
