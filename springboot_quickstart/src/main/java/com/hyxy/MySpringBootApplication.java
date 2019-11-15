@@ -9,6 +9,7 @@ public class MySpringBootApplication {
         SpringApplication.run(MySpringBootApplication.class);
     }
     public int aaa(){
+	int a=10;
 	return 1;
     }
 }
